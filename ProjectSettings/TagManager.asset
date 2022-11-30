@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "\u9C7C"
+  - "\u6D77"
+  - "\u89E3\u5BC6\u9053\u5177"
+  - "\u9C7C\u53C9"
+  - "\u9CB8\u9C7C"
+  - "\u6355\u9C7C\u8239"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - "\u8C1C\u9898"
+  - "\u89E3\u5BC6"
+  - "\u4E0D\u548C\u73A9\u5BB6"
+  - "\u73A9\u5BB6"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
